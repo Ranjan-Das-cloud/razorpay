@@ -1,1 +1,3 @@
-# JQuery_Repo_3
+# Razorpay Payment Gateway Status
+
+A confirmation page for successful payment rediction via Razorpay Payment Gateway
